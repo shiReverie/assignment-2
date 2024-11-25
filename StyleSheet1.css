@@ -1,0 +1,17 @@
+﻿button {
+    font-family: 'Japanese Tourist';
+    font-size: 50px;
+    color: #99325d;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-color: #99325d;
+    width:200px;
+    height:100px;
+}
+body {
+    background-image: url('https://i.pinimg.com/originals/32/11/d9/3211d90a0145d5169ec0354260ad0e2e.gif');
+    background-size: cover;
+    height: 100vh;
+}
